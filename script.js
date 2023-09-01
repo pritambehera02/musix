@@ -11,20 +11,20 @@ console.log(song_play)
 let songs_list = [
     {
         name : 'Heeriye',
-        Image : 'images/Heeriye.jpg',
-        Song : 'music/Heeriye.mp3',
+        Image : 'Heeriye.jpg',
+        Song : 'Heeriye.mp3',
         Singer : 'Arjit Singh'
     },
     {
         name : 'Chaliya',
-        Image : 'images/Chaliya.jpg',
-        Song : 'music/Chaliya.mp3',
+        Image : 'Chaliya.jpg',
+        Song : 'Chaliya.mp3',
         Singer : 'Arjit Singh'
     },
     {
         name : 'Guli Mata',
-        Image : 'images/Guli Mata.jpg',
-        Song : 'music/Guli Mata.mp3',
+        Image : 'Guli Mata.jpg',
+        Song : 'Guli Mata.mp3',
         Singer : 'Saad Lamjarred, Shreya Ghoshal'
     },
 ]
